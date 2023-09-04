@@ -4,4 +4,4 @@ services:
   web:
     image: "priyadars/node-app-test-2:latest"
     ports:
-      - "8000:8000"
+      - "8007:8007"
